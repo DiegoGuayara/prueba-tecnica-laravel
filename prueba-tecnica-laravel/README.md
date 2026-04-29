@@ -4,7 +4,7 @@ Mini-aplicación de gestión de tareas personales hecha con Laravel. Permite cre
 
 ## Datos
 
-- Nombre: Diana Guayara
+- Nombre: Diego Fernando Guayara
 - PHP: 8.2.12
 - Laravel: 11.51.0
 - Base de datos: SQLite
@@ -22,7 +22,8 @@ Mini-aplicación de gestión de tareas personales hecha con Laravel. Permite cre
 1. Clonar el repositorio:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/DiegoGuayara/prueba-tecnica-laravel.git
+cd prueba-tecnica-laravel
 cd prueba-tecnica-laravel
 ```
 
